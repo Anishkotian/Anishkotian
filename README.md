@@ -26,11 +26,27 @@ Currently, I'm exploring **Backend Development** and **Machine Learning**, while
 
 ## ⚙️ Backend
 
-`FastAPI` `REST APIs`
+`FastAPI` `REST APIs` `Pydantic`
 
 ## 🤖 Machine Learning
 
-`NumPy` `Pandas` `Matplotlib` `Scikit-learn`
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
+
+---
+
+## 🚀 Projects
+
+### 💊 PharmaGuard
+
+A medicine interaction and safety analysis application.
+
+**Tech:** `React` `JavaScript`
+
+### 🏥 Patient Management API
+
+A REST API for managing patient information.
+
+**Tech:** `Python` `FastAPI` `Pydantic`
 
 ---
 
@@ -38,21 +54,21 @@ Currently, I'm exploring **Backend Development** and **Machine Learning**, while
 
 I enjoy solving problems and continuously improving my DSA skills.
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Anish_Kotian-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Anish_Kotian/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Anish_Kotian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anish_Kotian/)
 
 ---
 
 ## 📚 Currently Learning
 
 🧠 **DSA & Problem Solving**
+
 ⚙️ **Backend Development**
+
+🐍 **Python Backend Development**
+
 🤖 **Machine Learning**
 
----
-
-## 🚀 What's Next?
-
-`React` → `Node.js` → `Express.js` → `PostgreSQL`
+🗄️ **PostgreSQL & Databases**
 
 ---
 
@@ -66,4 +82,4 @@ I enjoy solving problems and continuously improving my DSA skills.
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anish-a-poojary-4a4b9a360/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-a-poojary-4a4b9a360/)
